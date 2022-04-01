@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.video {
+    max-width: 500px;
+    width: 100%;
+    height: auto;
+}
