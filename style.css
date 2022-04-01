@@ -7,9 +7,3 @@ body {
     align-items: center;
     min-height: 100vh;
 }
-
-.video {
-    max-width: 500px;
-    width: 100%;
-    height: auto;
-}
